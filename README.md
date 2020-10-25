@@ -14,3 +14,5 @@ Members:
         Sana Ghafoor
         
 Project UI: https://www.figma.com/file/Ey5kr0cDYt7y5JGAIpIPzp/Saba?node-id=6%3A3
+
+Prototype: https://www.figma.com/proto/Ey5kr0cDYt7y5JGAIpIPzp/Saba?node-id=6%3A3&scaling=min-zoom
